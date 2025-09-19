@@ -1,1 +1,0 @@
-print("Hola mundo soy un código de Python programado en la madrugada")
