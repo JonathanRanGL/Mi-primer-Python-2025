@@ -1,4 +1,10 @@
 Hola profesor, en estas carpetas ordené todos los scripts separadas por curso y de manera de siguieran la secuencia de lecciones de cada uno, la carpeta "Python Codes" es la tiene el contenido de las scripts, la carpeta principal "JRSR - 23110179" solo es una carpeta para facilitar indentificarme.
+
+Como EXTRA he agregado una calculadora de distancia de detección para el juego en línea World Of Tanks, en esta se permite al usiario conocer las distancias a las que su tanque será detectado en diferentes condiciones según los datos de camuflaje y rango de visión ingresados por el usuario.
+
+
+![Texto alternativo](C:\Users\Jonathan Rangel\Documents\GitHub\Mi-primer-Python-2025\JRSR - 23110179\Assets\forreadme.png)
+
 A continuación dejo mis datos de estudiante:
 
 Jonathan Rodrigo Sánchez Rangel  
