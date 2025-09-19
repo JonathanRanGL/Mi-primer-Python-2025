@@ -3,7 +3,7 @@ Hola profesor, en estas carpetas ordené todos los scripts separadas por curso y
 Como EXTRA he agregado una calculadora de distancia de detección para el juego en línea World Of Tanks, en esta se permite al usiario conocer las distancias a las que su tanque será detectado en diferentes condiciones según los datos de camuflaje y rango de visión ingresados por el usuario.
 
 
-![Texto alternativo](Assets\forreadme.png)
+![Texto alternativo](https://github.com/JonathanRanGL/Mi-primer-Python-2025/blob/main/JRSR%20-%2023110179/Assets/forreadme.png)
 
 A continuación dejo mis datos de estudiante:
 
